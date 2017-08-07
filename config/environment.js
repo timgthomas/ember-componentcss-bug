@@ -3,6 +3,6 @@
 
 module.exports = function(/* environment, appConfig */) {
   return {
-//    podModulePrefix: 'addon-pod-test/pods'
+    podModulePrefix: 'addon-pod-test/pods'
   };
 };
