@@ -1,0 +1,1 @@
+export { default } from 'addon-pod-test/components/test-component/component';

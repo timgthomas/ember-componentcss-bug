@@ -2,5 +2,6 @@
 'use strict';
 
 module.exports = {
-  name: 'addon-pod-test'
+  name: 'addon-pod-test',
+  isDevelopingAddon: () => true,
 };
